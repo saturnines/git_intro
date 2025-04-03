@@ -4,4 +4,3 @@ leungke@oregonstate.edu
 
 purple
 
-7
